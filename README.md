@@ -3,16 +3,16 @@
 
 - 🤝 You can find my research works on [ResearchGate](https://www.researchgate.net/profile/Monisha-Basak)
 
-- 🌱 I’m currently learning **Neuroimage processing**
-
 - 🤝 Here you can visit my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=he88l1YAAAAJ)
 
 - 🤝 Here is my [ORCID ID](https://orcid.org/my-orcid?orcid=0000-0002-8132-3965)
 
+- 🌱 I’m currently learning **Neuroimage and Biomedical Signal Processing**
+
 - 👨‍💻 All of my works are available at [https://sites.google.com/view/monisha-basak/home/](https://sites.google.com/view/monisha-basak/home/)
 
-- 💬 Reach me out on **LinkedIn**
-
+- 💬 Reach me out on [LinkedIn](https://www.linkedin.com/in/monisha-basak/)
+  
 - 📫 Email me at **monishabasak.kuet.bme@gmail.com**
 
 - ⚡ Some of my recent achievements are **Champion of Bicchuron 2.0: Smart Power and Energy Challenge 2023**
