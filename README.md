@@ -42,7 +42,7 @@
 - Investigating Population-Specific Epilepsy Detection from Noisy EEG Signals Using Deep-learning Models 
   Doi: [https://doi.org/10.1016/j.heliyon.2023.e22208](https://doi.org/10.1016/j.heliyon.2023.e22208/)
 
-- Automatic Classification of COVID-19 from Chest X-Ray Images using Convolutional Neural Network
+- Automatic Classification of COVID-19 from Chest X-Ray Images using Convolutional Neural Network.
   Doi: [10.1109/EICT54103.2021.9733477](https://ieeexplore.ieee.org/document/9733477/)
 
 - Performance Investigation of Epilepsy Detection from Noisy EEG Signals Using Base-2-Meta Stacking Classifier
@@ -50,8 +50,10 @@
 <h2 align="center"> 🔬 Research Interest </h2>
 
 🔍 Medical Image Processing
+
 🔍 Bio-Signal Processing
-- Artificial Intelligence
+
+🔍 Artificial Intelligence
 - Neuroscience and Brain Mapping
 - Machine Learning and Data Science
 - Neuro Technology
