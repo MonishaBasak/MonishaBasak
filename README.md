@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Neuroimage and Biomedical Signal Processing**
 
-- 👨‍💻 All of my works are available at [https://sites.google.com/view/monisha-basak/home/](https://sites.google.com/view/monisha-basak/home/)
+- 👨‍💻 All of my works are available at [Monisha Basak|Portfolio](https://sites.google.com/view/monisha-basak/home/)
 
 - 💬 Reach me out on [LinkedIn](https://www.linkedin.com/in/monisha-basak/)
   
@@ -35,6 +35,17 @@
 - 🏆 **Uttam Award by Honorable Prime Minister**
 
 - 🏆 **Top 20 in IEEE WIE International Leadership Summit**
+
+
+<h2 align="center"> 📃 Publications </h2>
+- Investigating Population-Specific Epilepsy Detection from Noisy EEG Signals Using Deep-learning Models
+  Doi: [https://doi.org/10.1016/j.heliyon.2023.e22208](https://doi.org/10.1016/j.heliyon.2023.e22208/)
+
+- Automatic Classification of COVID-19 from Chest X-Ray Image using Convolutional Neural Network
+  Doi: [10.1109/EICT54103.2021.9733477](https://ieeexplore.ieee.org/document/9733477/)
+
+- Performance Investigation of Epilepsy Detection from Noisy EEG Signals Using Base-2-Meta Stacking
+Classifier
 
 
 <h3 align="left">Connect with me:</h3>
