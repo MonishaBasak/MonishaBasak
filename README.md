@@ -54,9 +54,12 @@
 🔍 Bio-Signal Processing
 
 🔍 Artificial Intelligence
-- Neuroscience and Brain Mapping
-- Machine Learning and Data Science
-- Neuro Technology
+
+🔍 Neuroscience and Brain Mapping
+
+🔍 Machine Learning and Data Science
+
+🔍 Neuro Technology
 
 
 
