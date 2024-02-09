@@ -15,7 +15,7 @@
   
 - 📫 Email me at **monishabasak.kuet.bme@gmail.com**
 
-- ⚡ Some of my recent achievements are **Champion of Bicchuron 2.0: Smart Power and Energy Challenge 2023**
+- ⚡ Some of my recent achievements are + **Champion of Bicchuron 2.0: Smart Power and Energy Challenge 2023**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
