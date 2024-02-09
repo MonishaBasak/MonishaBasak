@@ -21,6 +21,20 @@
   
 - 🏆 **Champion of National Digital Innovation Challenge 2023**
 
+- 🏆 **Champion of National Energy Innovation Challenge**
+
+- 🏆 **1st Runner-Up in BdOSN Dev Mania Project Competition**
+
+- 🏆 **Champion in SOfE Institutional Heat**
+
+- 🏆 **1st Runner-Up in Inter-University Poster Presentation**
+
+- 🏆 **Gold Award in International Poster Competition**
+
+- 🏆 **Uttam Award by Honorable Prime Minister**
+
+- 🏆 **Top 20 in IEEE WIE International Leadership Summit**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
