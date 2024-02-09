@@ -7,9 +7,9 @@
 
 - 🤝 Here is my [ORCID ID](https://orcid.org/my-orcid?orcid=0000-0002-8132-3965)
 
-- 🌱 I’m currently learning **Neuroimage and Biomedical Signal Processing**
+- 🧠 I’m currently learning **Neuroimage and Biomedical Signal Processing**
 
-- 👨‍💻 All of my works are available at [Monisha Basak | Portfolio](https://sites.google.com/view/monisha-basak/home/)
+- 👨‍🔬 All of my works are available at [Monisha Basak | Portfolio](https://sites.google.com/view/monisha-basak/home/)
 
 - 💬 Reach me out on [LinkedIn](https://www.linkedin.com/in/monisha-basak/)
   
