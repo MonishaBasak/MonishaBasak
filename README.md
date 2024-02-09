@@ -17,7 +17,9 @@
 
 <h3 align="center"> ⚡ Recent Achievements ⚡ </h3>
 - 🏆 **Champion of Bicchuron 2.0: Smart Power and Energy Challenge 2023**
+  
 - 🏆 **Champion of National Digital Innovation Challenge 2023**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
