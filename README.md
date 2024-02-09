@@ -49,8 +49,8 @@
 
 <h2 align="center"> 🔬 Research Interest </h2>
 
-* Medical Image Processing
-+ Bio-Signal Processing
+🔍 Medical Image Processing
+🔍 Bio-Signal Processing
 - Artificial Intelligence
 - Neuroscience and Brain Mapping
 - Machine Learning and Data Science
