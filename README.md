@@ -38,7 +38,8 @@
 
 
 <h2 align="center"> 📃 Publications </h2>
-- Investigating Population-Specific Epilepsy Detection from Noisy EEG Signals Using Deep-learning Models
+
+- Investigating Population-Specific Epilepsy Detection from Noisy EEG Signals Using Deep-learning Models 
   Doi: [https://doi.org/10.1016/j.heliyon.2023.e22208](https://doi.org/10.1016/j.heliyon.2023.e22208/)
 
 - Automatic Classification of COVID-19 from Chest X-Ray Image using Convolutional Neural Network
