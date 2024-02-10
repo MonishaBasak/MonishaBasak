@@ -3,7 +3,7 @@
 
 - 🤝 You can find my research works on [ResearchGate](https://www.researchgate.net/profile/Monisha-Basak)
 
-- 🤝 Here you can visit my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=he88l1YAAAAJ)
+- 🤝 Here you can visit my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=he88l1YAAAAJ) ID
 
 - 🤝 Here is my [ORCID ID](https://orcid.org/my-orcid?orcid=0000-0002-8132-3965)
 
